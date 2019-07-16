@@ -102,3 +102,4 @@ function calculator(number1,number2,operator) {
 }
 var result=calculator(11,5,'*')
 console.log(result);
+//
